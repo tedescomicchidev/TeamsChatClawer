@@ -1,0 +1,14 @@
+{
+  "groups": [
+    {
+      "name": "Finance",
+      "chatIds": ["19:123abc@thread.v2"],
+      "chatTitles": ["finance", "budget"]
+    },
+    {
+      "name": "Delivery",
+      "chatIds": [],
+      "chatTitles": ["delivery standup", "release"]
+    }
+  ]
+}
