@@ -1,0 +1,15 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.nupkg
+*.snupkg
+
+## Output
+teams-export/
+
+## Environment
+.env
+*.env
